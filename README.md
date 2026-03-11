@@ -1,2 +1,7 @@
-# nRhDDUb08MZl0Gfa
-ML-powered pipeline for talent sourcing and candidate ranking. Automates evaluation using role-specific keywords, ranks candidates by fitness, and re-ranks with human feedback via starring. Designed to reduce manual effort and improve accuracy in matching candidates to roles.
+Machine learning pipeline for talent sourcing and candidate ranking. 
+This project automates candidate evaluation based on role-specific keywords 
+(e.g., "full-stack engineer", "HR manager"), ranks candidates by fitness, 
+and integrates human feedback via a starring mechanism to re-rank results. 
+Designed to reduce manual effort and improve accuracy in matching candidates 
+to technology company roles.
+
