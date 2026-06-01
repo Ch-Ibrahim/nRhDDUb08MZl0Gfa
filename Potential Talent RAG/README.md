@@ -1,5 +1,3 @@
-Here is a clean `README.md` you can copy and paste into your GitHub project:
-
 ```markdown
 # RAG Potential Talents Screening
 
@@ -156,5 +154,5 @@ Possible improvements include:
 
 ## Author
 
-Created by Ibrahim Chaoudi as part of a data science and AI learning project.
+Created by Ibrahim Chaoudi as part of a APZIVA  project.
 ```
