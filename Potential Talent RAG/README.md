@@ -1,4 +1,4 @@
-```markdown
+
 # RAG Potential Talents Screening
 
 This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline for screening potential talent profiles using LangChain, OpenAI embeddings, FAISS, and an Excel dataset.
@@ -125,7 +125,7 @@ Relevant candidate chunks are returned
 Chunks are inserted into the prompt
      ↓
 OpenAI model generates the answer
-```
+
 
 ## Notes
 
